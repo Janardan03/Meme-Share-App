@@ -1,8 +1,8 @@
 # Meme-Share-App
 
-A meme sharing application developed using Android Studio and Kotlin.
+A meme sharing application developed using **Android Studio** and **Kotlin**.
 and some popular libraries for transmision of data and display of images i.e
-Volley library and Glide library.
+**Volley library** and **Glide library**.
 
 ### Using this App you can share memes with your friends and family across any platform
 
